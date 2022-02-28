@@ -1,0 +1,44 @@
+{
+    "User": [
+        {
+            "username": "Reena",
+            "password": "Reena@12",
+            "Profile": {
+                "description": "Coding",
+                "Dob": "29/9/1999",
+                "Gender": "f",
+                "Hobbies": "Reading book"
+            }
+        },
+        {
+            "username": "aaru",
+            "password": "aaru@20",
+            "Profile": {
+                "description": "dancing",
+                "Dob": "20/12/2003",
+                "Gender": "f",
+                "Hobbies": "singing"
+            }
+        },
+        {
+            "username": "Neha",
+            "password": "Neha@12",
+            "Profile": {
+                "description": "dancing",
+                "Dob": "10/8/2003",
+                "Gender": "f",
+                "Hobbies": "coding"
+            }
+        },
+        {
+            "username": "deepti",
+            "password": "deepti@26",
+            "Profile": {
+                "description": "reading book",
+                "Dob": "26/10/2002",
+                "Gender": "f",
+                "Hobbies": "coding"
+            }
+        }
+    ]
+}
